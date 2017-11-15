@@ -68,6 +68,9 @@ A:hover {
   height: 350px;
   float: left;
 }
+.fish:hover{
+     opacity: 0.5;
+}
 .cake{
   opacity: 1.0;
   width: 570px;
@@ -76,8 +79,6 @@ A:hover {
   margin-bottom: 50px;
 }
 .cake:hover{
-     opacity: 0.5;
-}.fish:hover{
      opacity: 0.5;
 }
 .word0 {
