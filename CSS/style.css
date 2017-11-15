@@ -37,6 +37,10 @@ A:hover {
 .logo{
   width: 120px;
   height: 80px;
+  opacity: 1.0;
+}
+.logo:hover{
+     opacity: 0.5;
 }
 .m {
   width: 174px;
@@ -61,6 +65,10 @@ A:hover {
 }
 .egg{
   margin-top: 50px;
+  opacity: 1.0;
+}
+.egg:hover{
+     opacity: 0.5;
 }
 .fish{
   opacity: 1.0;
