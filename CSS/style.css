@@ -14,11 +14,11 @@ A:hover {
 }
 .a 	{
   width: 112px;
-	height: 45px;
-	font-family: PingFangTC;
-	font-size: 32px;
-	font-weight: 600;
-	color: #FFFFFF;
+  height: 45px;
+  font-family: PingFangTC;
+  font-size: 32px;
+  font-weight: 600;
+  color: #FFFFFF;
   text-decoration: none;
   margin-right: 100px;
   margin-left: 100px;
@@ -27,10 +27,10 @@ A:hover {
 .d {
   width: 174px;
   height: 45px;
-	font-family: PingFangTC;
-	font-size: 32px;
-	font-weight: 600;
-	color: #FFFFFF;
+  font-family: PingFangTC;
+  font-size: 32px;
+  font-weight: 600;
+  color: #FFFFFF;
   text-decoration: none;
   margin-right: 50px;
 }
@@ -41,10 +41,10 @@ A:hover {
 .m {
   width: 174px;
   height: 45px;
-	font-family: PingFangTC;
-	font-size: 32px;
-	font-weight: 600;
-	color: #FFFFFF;
+  font-family: PingFangTC;
+  font-size: 32px;
+  font-weight: 600;
+  color: #FFFFFF;
   text-decoration: none;
   margin-left: 50px;
   margin-right: 100px;
@@ -52,10 +52,10 @@ A:hover {
 .c {
   width: 157px;
   height: 45px;
-	font-family: PingFangTC;
-	font-size: 32px;
-	font-weight: 600;
-	color: #FFFFFF;
+  font-family: PingFangTC;
+  font-size: 32px;
+  font-weight: 600;
+  color: #FFFFFF;
   text-decoration: none;
   margin-right: 100px;
 }
@@ -75,16 +75,16 @@ A:hover {
 ?
 }
 .word0 {
-	width: 1280px;
-	height: 129px;
-	font-family: PingFangTC;
-	font-size: 28px;
-	text-align: center;
-	color: #FFFFFF;
+  width: 1280px;
+  height: 129px;
+  font-family: PingFangTC;
+  font-size: 28px;
+  text-align: center;
+  color: #FFFFFF;
 }
 .word1{
   width: 545px;
-	height: 360px;
+  height: 360px;
   font-family: PingFangTC;
   font-size: 28px;
   font-weight: 600;
@@ -97,7 +97,7 @@ A:hover {
 .word2{
   clear: both;
   width: 545px;
-	height: 360px;
+  height: 360px;
   font-family: PingFangTC;
   font-size: 28px;
   font-weight: 600;
@@ -108,7 +108,7 @@ A:hover {
 .w3{
   clear: both;
   /*width: 545px;
-	height: 36px;*/
+  height: 36px;*/
   font-family: PingFangTC;
   font-size: 28px;
   font-weight: 600;
@@ -124,14 +124,14 @@ A:hover {
 }
 .menu , .af , .dn {
   clear: both;
-	width: 1280px;
-	height: 30px;
-	font-family: PingFangTC;
-	font-size: 28px;
-	text-align: center;
-	color: #FFFFFF;
+  width: 1280px;
+  height: 30px;
+  font-family: PingFangTC;
+  font-size: 28px;
+  text-align: center;
+  color: #FFFFFF;
   border-top-style:solid;
-	border-bottom-style:solid;
+  border-bottom-style:solid;
   margin-top: 50px;
   margin-bottom: 50px;
   padding: 10px;
@@ -162,13 +162,13 @@ A:hover {
 }
 footer {
   clear: both;
-	width: 1280px;
-	height: 40px;
-	font-family: PingFangTC;
-	font-size: 20px;
-	font-weight: 600;
-	text-align: center;
-	color: #FFFFFF;
+  width: 1280px;
+  height: 40px;
+  font-family: PingFangTC;
+  font-size: 20px;
+  font-weight: 600;
+  text-align: center;
+  color: #FFFFFF;
   margin-top: 70px;
   margin-left: 150px;
 }
