@@ -155,7 +155,12 @@ A:hover {
   clear: both;
   width: 580px;
   height: 300px;
-
+  font-family: PingFangTC;
+  font-size: 25px;
+  font-weight: 600;
+  color: #FFFFFF;
+  float: right;
+  margin-top: 80px;
 }
 .second{
   float: left;
