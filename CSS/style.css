@@ -1,0 +1,174 @@
+body{
+  width: auto;
+  height: auto;
+  background-color: #F3CF55;
+}
+.bigbody{
+  width: 1280px;
+  height: 1200px;
+  background-color:  #F3CF55;
+  margin:0 160px;
+}
+A:hover {
+  color: #ae9f80;
+}
+.a 	{
+  width: 112px;
+	height: 45px;
+	font-family: PingFangTC;
+	font-size: 32px;
+	font-weight: 600;
+	color: #FFFFFF;
+  text-decoration: none;
+  margin-right: 100px;
+  margin-left: 100px;
+
+}
+.d {
+  width: 174px;
+  height: 45px;
+	font-family: PingFangTC;
+	font-size: 32px;
+	font-weight: 600;
+	color: #FFFFFF;
+  text-decoration: none;
+  margin-right: 50px;
+}
+.logo{
+  width: 120px;
+  height: 80px;
+}
+.m {
+  width: 174px;
+  height: 45px;
+	font-family: PingFangTC;
+	font-size: 32px;
+	font-weight: 600;
+	color: #FFFFFF;
+  text-decoration: none;
+  margin-left: 50px;
+  margin-right: 100px;
+}
+.c {
+  width: 157px;
+  height: 45px;
+	font-family: PingFangTC;
+	font-size: 32px;
+	font-weight: 600;
+	color: #FFFFFF;
+  text-decoration: none;
+  margin-right: 100px;
+}
+.egg{
+  margin-top: 50px;
+}
+.fish{
+  width: 570px;
+  height: 350px;
+  float: left;
+}
+.cake{
+  width: 570px;
+  height: 350px;
+  float: right;
+  margin-bottom: 50px;
+?
+}
+.word0 {
+	width: 1280px;
+	height: 129px;
+	font-family: PingFangTC;
+	font-size: 28px;
+	text-align: center;
+	color: #FFFFFF;
+}
+.word1{
+  width: 545px;
+	height: 360px;
+  font-family: PingFangTC;
+  font-size: 28px;
+  font-weight: 600;
+  text-align: right;
+  color: #FFFFFF;
+  float: right;
+  /*margin-right: 40px;*/
+  margin-top: 30px;
+}
+.word2{
+  clear: both;
+  width: 545px;
+	height: 360px;
+  font-family: PingFangTC;
+  font-size: 28px;
+  font-weight: 600;
+  color: #FFFFFF;
+  float: left;
+  margin-top: 30px;
+}
+.w3{
+  clear: both;
+  /*width: 545px;
+	height: 36px;*/
+  font-family: PingFangTC;
+  font-size: 28px;
+  font-weight: 600;
+  color: #FFFFFF;
+  float: left;
+  margin-top: 30px;
+}
+.map{
+  clear: both;
+  width: 554px;
+  height: 407px;
+  margin-bottom: 80px;
+}
+.menu , .af , .dn {
+  clear: both;
+	width: 1280px;
+	height: 30px;
+	font-family: PingFangTC;
+	font-size: 28px;
+	text-align: center;
+	color: #FFFFFF;
+  border-top-style:solid;
+	border-bottom-style:solid;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  padding: 10px;
+}
+.address {
+  clear: both;
+  width: 580px;
+  height: 300px;
+  font-family: PingFangTC;
+  font-size: 25px;
+  font-weight: 600;
+  color: #FFFFFF;
+  float: right;
+  margin-top: 80px;
+}
+.second{
+  float: left;
+  margin-left: 480px;
+}
+.ig{
+  margin-left: 40px;
+}
+.gmail{
+  margin-left: 40px;
+}
+.twitter{
+  margin-left: 40px;
+}
+footer {
+  clear: both;
+	width: 1280px;
+	height: 40px;
+	font-family: PingFangTC;
+	font-size: 20px;
+	font-weight: 600;
+	text-align: center;
+	color: #FFFFFF;
+  margin-top: 70px;
+  margin-left: 150px;
+}
